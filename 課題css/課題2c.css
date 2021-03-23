@@ -1,0 +1,28 @@
+.box1{
+    width: 900px;
+    height: 100px;
+    background-color: blue;
+}
+.box2{
+    width: 700px;
+    height: 400px;
+    background-color: red;
+}
+
+.box3{
+    width: 200px;
+    height: 400px;
+    background-color: black;
+}
+.wrapper{
+    display: flex;
+}
+
+.box4{
+    width: 900px;
+    height: 100px;
+    background-color: green;
+}
+
+
+
